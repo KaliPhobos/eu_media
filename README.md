@@ -6,3 +6,5 @@
 * PNG: Kleinste Dateigröße
 * PSD Name & PNG Name gleich
 * Quellenangaben bei 0815 Bildern
+
+### Bitte schreibt mir euren GitHub Namen falls ihr Zugang haben wollt
