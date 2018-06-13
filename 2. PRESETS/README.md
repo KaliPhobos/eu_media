@@ -7,6 +7,8 @@
 * Grau: ![#121111](https://placehold.it/15/121111/000000?text=+) `#121111`
 * DPI: 300
 * BIT: 16
+* Font: https://github.com/NoSpread/eu_media/tree/master/2.%20PRESETS/FONTS
+* Bold/Bold Italic
 * PNG: Kleinste Dateigröße
 * PSD Name & PNG Name gleich
 * Wenn Möglich eine Kopie in SVG vorlegen
