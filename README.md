@@ -1,9 +1,9 @@
 ﻿# MEDIA CONTENT
 
 ## EXPORT RULES
-* Blau: #142e4d
-* Gold/Schrift: #ffbf00
-* Hellgrau: b9d6f2
+* Blau: ![#142e4d](https://placehold.it/15/142e4d/000000?text=+) `#142E4D`
+* Gold/Schrift: ![#ffbf00](https://placehold.it/15/ffbf00/000000?text=+) `#FFBF00`
+* Hellgrau: ![#b9d6f2](https://placehold.it/15/b9d6f2/000000?text=+) `#B9D6F2`
 * DPI: 300
 * BIT: 16
 * PNG: Kleinste Dateigröße
